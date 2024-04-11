@@ -49,14 +49,14 @@
 }
 .logo {
   order: 1;
-  font-size: 27px;
+  font-size: 2rem;
   color: rgb(247, 197, 71);
 }
 
 .menu-items li {
   list-style: none;
   margin-left: 1.5rem;
-  font-size: 27px;
+  font-size: 2rem;
   padding: 7px;
 }
 
@@ -279,6 +279,7 @@
   --main-color: #bb2778;
 }
 html {
+  font-size: 62.5%;
   overflow-x: hidden;
   scroll-padding-top: 7rem;
   scroll-behavior: smooth;
@@ -313,10 +314,10 @@ section {
 .heading {
   text-align: center;
   padding: 2rem;
-  margin: 80px;
   color: #fff;
   text-transform: uppercase;
-  font-size: 1.6rem;
+  font-size: 3.5rem;
+  margin-bottom: 70px;
 }
 
 .heading span {
@@ -355,15 +356,15 @@ section {
 
 .home .content {
   text-align: center;
-  padding-top: 6rem;
+  padding-top: 4rem;
   margin: 2rem auto;
   max-width: 70rem;
 }
 .home .content h3 {
   color: #fff;
-  font-size: 1rem;
+  font-size: 3.5rem;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   text-transform: uppercase;
 }
 
@@ -534,7 +535,7 @@ section {
   letter-spacing: 2px;
 }
 .events-hr {
-  width: 120px;
+  width: 100px;
   height: 3px;
   background-color: rgb(141, 102, 3);
   margin-left: 500px;
@@ -543,7 +544,7 @@ section {
   color: rgb(142, 209, 182);
   margin: 20px;
   font-weight: 100;
-  font-size: 26px;
+  font-size: 28px;
 }
 .content-event h4 {
   color: rgb(66, 177, 171);
@@ -594,7 +595,7 @@ section {
 }
 
 .heading h1 {
-  font-size: 1rem;
+  font-size: 3.2rem;
   color: #fff;
   padding-bottom: 1rem;
   text-transform: uppercase;
