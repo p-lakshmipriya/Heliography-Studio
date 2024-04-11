@@ -317,7 +317,7 @@ section {
   margin: 80px;
   color: #fff;
   text-transform: uppercase;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .heading span {
@@ -362,7 +362,9 @@ section {
 }
 .home .content h3 {
   color: #fff;
-  font-size: 2rem;
+  font-size: 3rem;
+  margin-top: 10px;
+  margin-bottom: 30px;
   text-transform: uppercase;
 }
 
