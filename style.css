@@ -49,14 +49,14 @@
 }
 .logo {
   order: 1;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: rgb(247, 197, 71);
 }
 
 .menu-items li {
   list-style: none;
   margin-left: 1.5rem;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   padding: 7px;
 }
 
