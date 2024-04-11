@@ -300,7 +300,7 @@ html::-webkit-scrollbar-thumb {
 
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../img/bg3.jpeg);
+    url(./img/bg3.jpeg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
