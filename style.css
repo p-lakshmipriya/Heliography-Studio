@@ -317,7 +317,7 @@ section {
   margin: 80px;
   color: #fff;
   text-transform: uppercase;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .heading span {
@@ -496,11 +496,11 @@ section {
 }
 @media (max-width: 500px) {
   .content h3 {
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     text-align: center;
   }
   h1 .heading {
-    font-size: 2.3rem;
+    font-size: 2.1rem;
     text-align: center;
   }
 }
