@@ -49,14 +49,14 @@
 }
 .logo {
   order: 1;
-  font-size: 0.9rem;
+  font-size: 27px;
   color: rgb(247, 197, 71);
 }
 
 .menu-items li {
   list-style: none;
   margin-left: 1.5rem;
-  font-size: 0.7rem;
+  font-size: 27px;
   padding: 7px;
 }
 
@@ -361,7 +361,7 @@ section {
 }
 .home .content h3 {
   color: #fff;
-  font-size: 1.6rem;
+  font-size: 1rem;
   margin-top: 10px;
   margin-bottom: 30px;
   text-transform: uppercase;
@@ -594,7 +594,7 @@ section {
 }
 
 .heading h1 {
-  font-size: 1.6rem;
+  font-size: 1rem;
   color: #fff;
   padding-bottom: 1rem;
   text-transform: uppercase;
